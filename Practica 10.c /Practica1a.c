@@ -1,8 +1,8 @@
 /*Axel Miranda Quiroz
-Practica 10*
-1a.c/
+Practica 10
+1a.c*/
 
-#include<stdio.h>
+#include <stdio.h>
 int main()
 {
 int matriz[3][3] = {{1,2,3},{4,5,6},{7,8,9}};
@@ -18,4 +18,3 @@ printf("\n");
 }
 return 0;
 }
-  
